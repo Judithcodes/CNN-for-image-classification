@@ -1,6 +1,6 @@
+![CNN](https://user-images.githubusercontent.com/28722660/57572107-ca6ff600-7433-11e9-908b-c3e391896864.png)
 <div>
 	<div class="tex">
-    ![CNN](https://user-images.githubusercontent.com/28722660/57572107-ca6ff600-7433-11e9-908b-c3e391896864.png)
 		<center><h1 style="color: white"><u>Introduction</u></h1></center><br>
 		<p style="color: white;">
 			<strong>Building a model that can Classify whether a person has malaria or not based on cell images using convolutional neural networks (CNN)</strong><br>
